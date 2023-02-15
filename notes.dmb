@@ -1,0 +1,7 @@
+Greeter class defines sayHello() method with a print line Hello World. 
+This is the implementation class.
+
+
+
+The HelloApp2 class creates a myGreeterObject that can hold objects created from the Greeter class.
+This is the calling class.
