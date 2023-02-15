@@ -4,7 +4,8 @@
 public class HelloApp2 {
     public  static void main(String[] args){
         Greeter myGreeterObject = new Greeter();
-
+        // call the sayHello() method located in Greeter class.
+        myGreeterObject.sayHello();
     } 
 
 
