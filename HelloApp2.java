@@ -1,4 +1,4 @@
-/*
+/* Calling class
  * create a myGreeterObject that can hold objects created from the Greeter class
  */
 public class HelloApp2 {
